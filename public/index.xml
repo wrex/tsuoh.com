@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Two Oh • 2.0 • TSUOH on TSUOH.com</title>
+    <link>https://tsuoh.com/</link>
+    <description>Recent content in Two Oh • 2.0 • TSUOH on TSUOH.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://tsuoh.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contact</title>
+      <link>https://tsuoh.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tsuoh.com/contact/</guid>
+      <description>TSUOH
+2225 East Bayshore Road
+Palo Alto, California 94303
+United States
+info@tsuoh.com
+For further information, please provide the following:
+Your Name Email Address An email address is required.  Message   </description>
+    </item>
+    
+  </channel>
+</rss>
