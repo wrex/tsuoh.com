@@ -8,14 +8,10 @@ menu:
 ---
 
 
-<!--
-  This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out [Formspree](https://formspree.io/) for a simple, free form service.
--->
-
-TSUOH<br>
-2225 East Bayshore Road<br>
-Palo Alto, California 94303<br>
-United States<br>
+TSUOH  
+1900 S. Norfolk Street, Suite 350  
+San Mateo, California 94403  
+United States  
 info@tsuoh.com
 
 For further information, please provide the following:
